@@ -2,8 +2,6 @@
 
 VBScript-based application. Based off of and music/images sourced from "Snoop Hark" and "Harkinian Dancing (Blue Screen)" by Jimmy Davis on Youtube.
 
-The app will prompt for a password. The password is ganonisahoax.
-
 This app has two modes:
 
 Non Malicious:
